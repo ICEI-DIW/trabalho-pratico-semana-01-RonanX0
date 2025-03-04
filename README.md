@@ -10,8 +10,8 @@ Matricula: 877253
 
 ## Tela de inspeção com navegador
 
-![Inspeção de Conexão](</images/Captura%20de%20Tela%20(2).png>)
+![Inspeção de Conexão](/imagens/captura1.png)
 
 ## Tela de projeto no Replit
 
-![Inspeção de Conexão](</images/Captura%20de%20Tela%20(3).png>)
+![Inspeção de Conexão](/imagens/captura2.png)
